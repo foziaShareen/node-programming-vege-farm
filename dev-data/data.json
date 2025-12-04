@@ -1,0 +1,57 @@
+[
+  {
+    "id": 0,
+    "productName": "Fresh Spinach Leaves",
+    "image": "🥬",
+    "from": "Italy",
+    "nutrients": "Iron, Vitamin K",
+    "quantity": "200g 🥬",
+    "price": "3.20",
+    "organic": true,
+    "description": "Spinach is a leafy green vegetable known for its tender texture and mild flavor. It is packed with essential nutrients like iron and vitamin K, making it a popular choice for salads, smoothies, and cooked dishes. Fresh spinach wilts easily when heated and blends well with a variety of ingredients. Its versatility and nutritional value make it a staple in healthy diets around the world."
+  },
+  {
+    "id": 1,
+    "productName": "Red Bell Peppers",
+    "image": "🫑",
+    "from": "Netherlands",
+    "nutrients": "Vitamin C, Vitamin B6",
+    "quantity": "3 🫑",
+    "price": "4.40",
+    "organic": false,
+    "description": "Red bell peppers are sweet, crisp vegetables known for their vibrant color and juicy texture. They are rich in antioxidants and contain high amounts of Vitamin C. Bell peppers are commonly used in salads, stir-fries, and roasted dishes. Their natural sweetness intensifies when cooked, making them a flavorful option in many cuisines."
+  },
+  {
+    "id": 2,
+    "productName": "Organic Cucumbers",
+    "image": "🥒",
+    "from": "Turkey",
+    "nutrients": "Vitamin K, Potassium",
+    "quantity": "2 🥒",
+    "price": "2.80",
+    "organic": true,
+    "description": "Cucumbers are refreshing vegetables with high water content, making them a hydrating snack. They have a mild, crisp texture and are commonly used in salads, sandwiches, and pickles. Cucumbers contain important nutrients like Vitamin K and potassium, supporting hydration and overall wellness. Their cooling properties make them a popular summer food."
+  },
+  {
+    "id": 3,
+    "productName": "Purple Eggplants",
+    "image": "🍆",
+    "from": "Greece",
+    "nutrients": "Fiber, Vitamin B1",
+    "quantity": "2 🍆",
+    "price": "4.10",
+    "organic": false,
+    "description": "Eggplants are smooth, glossy vegetables prized for their ability to absorb flavors during cooking. Their spongy interior becomes soft and creamy when roasted, fried, or grilled. Rich in fiber and antioxidants, eggplants are widely used in Mediterranean and Asian cuisines. They are key ingredients in dishes like moussaka, baba ganoush, and ratatouille."
+  },
+  {
+    "id": 4,
+    "productName": "Fresh Tomatoes",
+    "image": "🍅",
+    "from": "Morocco",
+    "nutrients": "Vitamin C, Lycopene",
+    "quantity": "6 🍅",
+    "price": "3.60",
+    "organic": true,
+    "description": "Tomatoes are juicy, flavor-rich fruits often treated as vegetables in cooking. They come in many varieties, but all are known for their tangy sweetness. Tomatoes are rich in lycopene, an antioxidant linked to many health benefits. They are used in salads, sauces, soups, and countless savory dishes around the world. Fresh tomatoes add color and brightness to meals."
+  }
+]

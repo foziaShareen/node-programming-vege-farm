@@ -1,0 +1,27 @@
+{
+  "name": "programming",
+  "version": "1.0.0",
+  "description": "node in detail",
+  "keywords": [
+    "node"
+  ],
+  "homepage": "https://github.com/foziaShareen/node-programming-vege-farm#readme",
+  "bugs": {
+    "url": "https://github.com/foziaShareen/node-programming-vege-farm/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/foziaShareen/node-programming-vege-farm.git"
+  },
+  "license": "ISC",
+  "author": "fozia",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "^5.2.1",
+    "superagent": "^10.2.3"
+  }
+}
